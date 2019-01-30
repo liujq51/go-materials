@@ -10,6 +10,8 @@ go 资料收集
 - [中文文档](http://docscn.studygolang.com/pkg/)
 - [标准库中文文档](https://studygolang.com/pkgdoc)
 - [Go 知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0)
+- [Go 语言设计模式](https://github.com/senghoo/golang-design-pattern)
+- [大道至简—GO语言最佳实践](https://mp.weixin.qq.com/s/hE7ecSywWY8SxoQV0OwBQg)
 
 ## 基于Go开源应用
 
