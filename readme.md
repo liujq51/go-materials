@@ -18,7 +18,7 @@ go 资料收集
 
 - [Go 语言基础教程 (O’Reilly)](http://www.bilibili.com/video/av8845689/) 
 - [Go语言第一课 (郝林)](http://www.imooc.com/learn/345) 
-- [Google资深工程师深度讲解Go语言 (链接: https://pan.baidu.com/s/1E31Q7uQkp7N77KeDOh_8gw 提取码: myg7)] 
+- [Google资深工程师深度讲解Go语言 (链接: https://pan.baidu.com/s/1E31Q7uQkp7N77KeDOh_8gw 提取码: myg7)](https://coding.imooc.com/class/chapter/180.html)
 
 
 ## 社区
